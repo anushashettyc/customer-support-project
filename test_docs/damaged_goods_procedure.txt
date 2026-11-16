@@ -1,0 +1,200 @@
+================================================================================
+                    OMNISUPPORT RETAIL - DAMAGED GOODS PROCEDURE
+                         Guidelines for Reporting & Resolution
+                         Effective Date: January 1, 2024
+================================================================================
+
+1. TYPES OF DAMAGE COVERED
+--------------------------
+This procedure covers items that arrive in damaged condition due to:
+
+   a) SHIPPING DAMAGE - Caused during transit
+      - Crushed or dented packaging
+      - Broken seals or torn boxes
+      - Water damage from exposure
+      - Impact damage (drops, throws)
+
+   b) MANUFACTURING DEFECTS - Present before shipping
+      - Cracked, chipped, or broken components
+      - Missing parts or accessories
+      - Cosmetic defects (scratches, dents, discoloration)
+      - Non-functional features
+
+   c) PACKAGING DEFECTS
+      - Insufficient protection
+      - Wrong packaging for item type
+      - Missing protective materials
+
+2. REPORTING TIMELINE - CRITICAL
+--------------------------------
+The timing of your damage report affects resolution options:
+
+   ┌────────────────────────────────────────────────────────────────────────┐
+   │  REPORT WITHIN    │  RESOLUTION OPTIONS                               │
+   ├────────────────────────────────────────────────────────────────────────┤
+   │  48 HOURS         │  Full refund OR Free replacement                  │
+   │                   │  No return shipping required                       │
+   │                   │  Expedited processing                              │
+   ├────────────────────────────────────────────────────────────────────────┤
+   │  48 HOURS - 7 DAYS│  Full refund OR Replacement available             │
+   │                   │  Photos required for documentation                 │
+   │                   │  May require return of damaged item                │
+   ├────────────────────────────────────────────────────────────────────────┤
+   │  7-14 DAYS        │  Refund or replacement at discretion              │
+   │                   │  Detailed documentation required                   │
+   │                   │  Investigation may be conducted                    │
+   ├────────────────────────────────────────────────────────────────────────┤
+   │  14-30 DAYS       │  Processed as standard return                     │
+   │                   │  Subject to return policy conditions               │
+   │                   │  Restocking fee may apply                          │
+   ├────────────────────────────────────────────────────────────────────────┤
+   │  AFTER 30 DAYS    │  Warranty claim process applies                   │
+   │                   │  Must prove manufacturing defect                   │
+   │                   │  Repair/replacement only (no refund)               │
+   └────────────────────────────────────────────────────────────────────────┘
+
+   VIP (Platinum) CUSTOMERS: Extended to 14 days for full resolution options
+
+3. HOW TO REPORT DAMAGE
+-----------------------
+   Step 1: DO NOT DISCARD PACKAGING
+           Keep all boxes, packing materials, and damaged items
+
+   Step 2: DOCUMENT THE DAMAGE
+           Take clear photos showing:
+           - Overall condition of package upon arrival
+           - Damage to outer packaging
+           - Damage to inner packaging/protective materials
+           - Damage to the product itself
+           - Close-up shots of specific damage areas
+           - Shipping label (for carrier claims)
+
+   Step 3: CONTACT CUSTOMER SUPPORT
+           Methods:
+           - Online: Submit damage claim form at omnisupport.com/damage
+           - Email: damage@omnisupport.com
+           - Phone: 1-800-OMNI-HELP (select option 2)
+           - Chat: Live chat on website or app
+
+   Step 4: PROVIDE REQUIRED INFORMATION
+           - Order ID
+           - Product name and SKU
+           - Date of delivery
+           - Description of damage
+           - Photos (attach to claim)
+           - Preferred resolution (refund or replacement)
+
+4. EVIDENCE REQUIREMENTS
+------------------------
+   REQUIRED for all damage claims:
+   - Order ID or proof of purchase
+   - Description of damage
+   - At least 2 photos showing damage
+
+   RECOMMENDED for faster processing:
+   - Photo of shipping label
+   - Photo of outer box condition
+   - Video showing defect (for functional issues)
+   - Screenshot of delivery notification
+
+   WAIVED for VIP (Platinum) customers on claims under $100
+
+5. RESOLUTION PROCESS
+---------------------
+   Day 1: Damage report received and logged
+   Day 1-2: Initial review by customer support team
+   Day 2-3: Assessment and determination
+   Day 3-5: Resolution communicated to customer
+   Day 5-7: Refund processed or replacement shipped
+
+   EXPEDITED for VIP customers: 1-3 days total
+
+6. RESOLUTION OPTIONS
+---------------------
+
+   A. FULL REFUND
+   - Original purchase price returned
+   - Taxes returned
+   - Shipping costs returned
+   - Processed to original payment method
+
+   B. REPLACEMENT
+   - Identical item shipped free of charge
+   - Express shipping at no extra cost
+   - Original damaged item may need to be returned
+   - If item out of stock: refund or equivalent item offered
+
+   C. PARTIAL REFUND
+   - Offered if damage is minor/cosmetic
+   - Customer keeps damaged item at reduced price
+   - Discount typically 20-50% based on damage severity
+
+   D. REPAIR
+   - Available for certain product categories
+   - Free repair service arranged
+   - Loaner item may be provided during repair (VIP only)
+
+7. DISPOSAL OF DAMAGED ITEMS
+----------------------------
+   Based on item value and damage type:
+
+   Items UNDER $50:
+   - Customer may dispose of item
+   - No return required
+   - Refund/replacement processed immediately
+
+   Items $50-$200:
+   - Photos sufficient in most cases
+   - Return may be required for investigation
+   - Prepaid return label provided if needed
+
+   Items OVER $200:
+   - Return generally required
+   - Pickup may be arranged for large items
+   - Inspection conducted upon receipt
+   - Refund processed after inspection (3-5 days)
+
+   HAZARDOUS ITEMS:
+   - Do not return - special disposal instructions provided
+   - Refund/replacement processed without return
+
+8. CARRIER DAMAGE CLAIMS
+------------------------
+For severe shipping damage, we may file a carrier claim:
+   - Customer cooperates with carrier inspection if requested
+   - Does not delay customer refund/replacement
+   - We handle all carrier communication
+
+9. FRAUD PREVENTION
+-------------------
+To protect against fraudulent damage claims:
+   - Photo metadata may be verified
+   - Delivery photos from carrier reviewed
+   - Pattern analysis on customer account
+   - Reserve right to require return before refund
+
+   Consequences of fraudulent claims:
+   - Claim denied
+   - Account suspended
+   - Legal action in severe cases
+
+10. SPECIAL CASES
+-----------------
+    CONCEALED DAMAGE (discovered after unpacking):
+    - Report within 48 hours of discovery
+    - Document how item was stored before discovery
+    - Full resolution options available
+
+    PARTIAL SHIPMENT DAMAGE:
+    - Only damaged items need to be reported
+    - Undamaged items from same order not affected
+
+    GIFT RECIPIENTS:
+    - Can report damage with gift receipt
+    - Store credit issued to recipient
+    - Refund to original purchaser available upon request
+
+================================================================================
+                    For damage claims: damage@omnisupport.com
+                         Urgent Line: 1-800-OMNI-HELP (Option 2)
+================================================================================

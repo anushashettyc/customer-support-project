@@ -1,0 +1,167 @@
+================================================================================
+                    OMNISUPPORT RETAIL - VIP CUSTOMER BENEFITS
+                         Loyalty Program Terms & Conditions
+                         Effective Date: January 1, 2024
+================================================================================
+
+1. LOYALTY PROGRAM OVERVIEW
+---------------------------
+The OmniSupport Loyalty Program rewards our valued customers with exclusive
+benefits, discounts, and privileges based on their annual spending and
+engagement with our platform.
+
+2. MEMBERSHIP TIERS
+-------------------
+
+   ┌─────────────────────────────────────────────────────────────────────────┐
+   │  TIER       │ ANNUAL SPEND  │ DISCOUNT │ RETURN WINDOW │ PRIORITY     │
+   ├─────────────────────────────────────────────────────────────────────────┤
+   │  Bronze     │ $0 - $499     │ 0%       │ 30 days       │ Standard     │
+   │  Silver     │ $500 - $1,499 │ 5%       │ 37 days       │ Medium       │
+   │  Gold       │ $1,500-$4,999 │ 10%      │ 44 days       │ High         │
+   │  Platinum   │ $5,000+       │ 15%      │ 60 days       │ VIP          │
+   └─────────────────────────────────────────────────────────────────────────┘
+
+3. TIER BENEFITS DETAILED
+-------------------------
+
+   BRONZE TIER (Entry Level)
+   -------------------------
+   - Standard 30-day return window
+   - Access to member-only sales events
+   - Birthday discount: 5% off one purchase
+   - Free standard shipping on orders over $50
+   - Basic customer support (response within 48 hours)
+
+   SILVER TIER
+   -----------
+   - Extended 37-day return window (+7 days)
+   - 5% discount on all purchases
+   - Birthday discount: 10% off one purchase
+   - Free standard shipping on orders over $35
+   - Priority customer support (response within 24 hours)
+   - Early access to sales (24 hours before public)
+   - Quarterly bonus offers and coupons
+
+   GOLD TIER
+   ---------
+   - Extended 44-day return window (+14 days)
+   - 10% discount on all purchases
+   - Birthday discount: 15% off one purchase
+   - Free standard shipping on all orders
+   - Free express shipping on orders over $100
+   - Priority customer support (response within 12 hours)
+   - Early access to sales (48 hours before public)
+   - Exclusive Gold member-only products
+   - Free gift wrapping on all orders
+   - Complimentary annual gift (value up to $50)
+   - Waived restocking fees on returns
+
+   PLATINUM TIER (VIP)
+   -------------------
+   - Extended 60-day return window (+30 days)
+   - 15% discount on all purchases
+   - Birthday discount: 20% off one purchase
+   - Free express shipping on all orders
+   - Free same-day delivery (where available)
+   - VIP customer support (response within 4 hours)
+   - Dedicated account manager
+   - Early access to sales (72 hours before public)
+   - Access to exclusive VIP-only products and collections
+   - Free gift wrapping and personalization
+   - Complimentary annual gift (value up to $150)
+   - Waived restocking fees on all returns
+   - Free returns (no return shipping cost)
+   - Invitation to exclusive VIP events
+   - Price protection: 30-day price match guarantee
+   - Complimentary product repairs (minor issues)
+
+4. CUSTOMER SUPPORT PRIORITY
+----------------------------
+Support queue priority based on tier:
+
+   Platinum: IMMEDIATE - Jump to front of queue, dedicated line
+   Gold: HIGH PRIORITY - Average wait time under 5 minutes
+   Silver: MEDIUM PRIORITY - Average wait time under 15 minutes
+   Bronze: STANDARD - Average wait time under 30 minutes
+
+5. DISPUTE RESOLUTION PRIORITY
+------------------------------
+When resolving customer complaints and disputes:
+
+   Platinum Customers:
+   - Benefit of the doubt given in ambiguous situations
+   - Higher refund limits without manager approval
+   - Goodwill gestures more readily offered
+   - Exceptions made for minor policy violations
+
+   Gold Customers:
+   - Favorable consideration in dispute resolution
+   - Moderate flexibility on policy enforcement
+   - Eligible for goodwill gestures
+
+   Silver/Bronze Customers:
+   - Standard policy enforcement
+   - Exceptions require manager approval
+
+6. TIER ADVANCEMENT
+-------------------
+   - Tier status is calculated based on rolling 12-month spending
+   - Status updates on the 1st of each month
+   - Tier upgrades take effect immediately upon qualification
+   - Tier downgrades occur after 12 months below threshold
+   - 3-month grace period provided before downgrade
+
+7. TIER MAINTENANCE
+-------------------
+To maintain your current tier:
+   - Bronze: No minimum (default tier)
+   - Silver: Spend at least $500 in any 12-month period
+   - Gold: Spend at least $1,500 in any 12-month period
+   - Platinum: Spend at least $5,000 in any 12-month period
+
+8. SPECIAL PROVISIONS FOR VIP CUSTOMERS
+---------------------------------------
+Our Platinum (VIP) customers receive special consideration:
+
+   a) RETURN FLEXIBILITY
+      - Returns accepted up to 60 days (double standard window)
+      - Return condition requirements relaxed for minor use
+      - Free return shipping on all returns
+      - No restocking fees under any circumstances
+
+   b) REFUND PREFERENCE
+      - Full refunds preferred over store credit
+      - Expedited refund processing (2-3 business days)
+      - Goodwill refunds available for extenuating circumstances
+
+   c) DAMAGE CLAIMS
+      - Extended reporting window (14 days vs 7 days standard)
+      - Photo evidence not always required for small claims
+      - Replacement shipped before return received
+
+   d) WARRANTY CLAIMS
+      - Extended warranty consideration (+30 days)
+      - Expedited claim processing
+      - Loaner products available during repair
+
+9. EARNING POINTS
+-----------------
+In addition to tier benefits, members earn points:
+   - 1 point per $1 spent
+   - Bonus points during promotional periods
+   - 100 points = $5 store credit
+   - Points expire 12 months after earning
+
+10. PROGRAM TERMS
+-----------------
+   - Membership is free and automatic upon account creation
+   - Benefits cannot be combined with other promotions (unless stated)
+   - OmniSupport reserves the right to modify program terms
+   - Abuse of benefits may result in account suspension
+   - Benefits are non-transferable
+
+================================================================================
+                    For loyalty program inquiries: vip@omnisupport.com
+                         VIP Hotline: 1-800-OMNI-VIP
+================================================================================

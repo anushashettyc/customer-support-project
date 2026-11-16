@@ -1,0 +1,206 @@
+OMNISUPPORT AI - PRODUCT CARE & MAINTENANCE GUIDE
+==================================================
+
+Keep Your Products in Perfect Condition
+
+SECTION 1: ELECTRONICS CARE
+---------------------------
+
+Smartphones & Tablets:
+- Clean screen with microfiber cloth only
+- Avoid extreme temperatures (-4°F to 113°F operating range)
+- Remove case monthly to clean trapped debris
+- Keep away from water (even water-resistant devices)
+- Use original or certified chargers only
+- Battery health: Keep between 20-80% charge for longevity
+- Update software regularly for security and performance
+
+Laptops & Computers:
+- Shut down weekly to clear memory and apply updates
+- Clean keyboard with compressed air monthly
+- Wipe screen with electronics-safe cleaner
+- Ensure ventilation - don't block air vents
+- Use surge protector always
+- Defragment HDD quarterly (not needed for SSD)
+- Backup data weekly to cloud or external drive
+
+Smart Watches:
+- Rinse with fresh water after swimming or sweating
+- Dry thoroughly before charging
+- Clean sensors on back with soft cloth
+- Remove band monthly to clean underneath
+- Avoid soap, lotion, and harsh chemicals
+- Replace band every 12-18 months for hygiene
+
+Headphones & Earbuds:
+- Wipe down after each use
+- Clean ear tips weekly with isopropyl alcohol
+- Store in case when not in use
+- Avoid leaving in hot car
+- Don't share earbuds (hygiene)
+- Replace ear tips every 6 months
+
+SECTION 2: APPLIANCE CARE
+-------------------------
+
+Kitchen Appliances:
+
+Coffee Makers:
+- Descale monthly with white vinegar solution
+- Clean carafe after each use
+- Replace water filter every 2 months
+- Wipe exterior weekly
+- Empty grounds immediately after brewing
+
+Blenders:
+- Rinse immediately after use
+- Deep clean: blend warm water + dish soap
+- Check blade tightness monthly
+- Replace gasket annually
+- Don't overfill past max line
+
+Air Fryers:
+- Clean basket after every use
+- Wipe heating element monthly (when cool)
+- Don't use metal utensils inside
+- Check for food buildup in vents
+- Deep clean interior monthly
+
+Microwaves:
+- Clean spills immediately
+- Steam clean weekly: microwave water + lemon 3 min
+- Clean door seals monthly
+- Don't run empty
+- Replace if door doesn't seal properly
+
+Home Appliances:
+
+Vacuum Cleaners:
+- Empty canister/replace bag when 2/3 full
+- Clean filters monthly
+- Check brush roll for hair/debris weekly
+- Replace HEPA filter annually
+- Inspect belt every 6 months
+
+Air Purifiers:
+- Replace filters per manufacturer schedule
+- Clean pre-filter monthly
+- Wipe exterior weekly
+- Don't block intake/output vents
+- Run 24/7 for best results (energy efficient)
+
+Robot Vacuums:
+- Empty dustbin after each run
+- Clean sensors weekly
+- Remove hair from brushes weekly
+- Clean charging contacts monthly
+- Replace brushes every 6-12 months
+
+SECTION 3: WARRANTY PROTECTION
+------------------------------
+
+What VOIDS your warranty:
+- Unauthorized repairs or modifications
+- Physical damage from drops, spills, or accidents
+- Damage from improper cleaning products
+- Use with incompatible accessories
+- Commercial use of consumer products
+- Removing serial number labels
+- Jailbreaking or rooting devices
+
+What is COVERED:
+- Manufacturing defects
+- Component failure under normal use
+- Software issues (covered by updates)
+- Battery degradation below 80% capacity (first year)
+
+Extended warranty benefits:
+- Accidental damage protection available
+- No deductibles for manufacturing defects
+- Free shipping both ways for repairs
+- Loaner device program (Gold/Platinum members)
+
+SECTION 4: TROUBLESHOOTING BEFORE CONTACTING SUPPORT
+----------------------------------------------------
+
+Electronics Not Turning On:
+1. Check if charged (charge 30 min minimum)
+2. Try different outlet/charger
+3. Perform hard reset (hold power 15-30 seconds)
+4. Check for physical damage
+5. Contact support if still not working
+
+Device Running Slowly:
+1. Restart device
+2. Check storage space (need 10%+ free)
+3. Close unused apps
+4. Check for software updates
+5. Factory reset as last resort (backup first!)
+
+Connectivity Issues:
+1. Toggle WiFi/Bluetooth off and on
+2. Restart device
+3. Restart router/modem
+4. Forget network and reconnect
+5. Check for interference from other devices
+
+Battery Draining Fast:
+1. Check battery health in settings
+2. Reduce screen brightness
+3. Disable unused features (GPS, Bluetooth)
+4. Check for apps using excessive power
+5. Consider battery replacement if >2 years old
+
+SECTION 5: WHEN TO SEEK PROFESSIONAL REPAIR
+-------------------------------------------
+
+Seek repair immediately if:
+- Smoke, burning smell, or unusual heat
+- Cracked battery or swelling
+- Exposed wires or components
+- Sparking when charging
+- Water damage with visible corrosion
+
+Don't attempt self-repair on:
+- Sealed batteries
+- Screens with digitizer
+- Motherboards or logic boards
+- Charging ports
+- Speakers with water damage
+
+SECTION 6: PRODUCT LIFESPAN EXPECTATIONS
+----------------------------------------
+
+Typical lifespan with proper care:
+- Smartphones: 3-4 years
+- Laptops: 4-6 years
+- Tablets: 4-5 years
+- Smart watches: 3-4 years
+- Wireless earbuds: 2-3 years
+- Kitchen appliances: 8-12 years
+- Vacuum cleaners: 8-10 years
+- Air purifiers: 5-8 years
+
+Signs it's time to replace:
+- Repair cost exceeds 50% of replacement cost
+- Multiple recurring issues
+- No longer receiving software/security updates
+- Battery replacement not cost effective
+- Performance significantly degraded
+
+SECTION 7: RECYCLING & DISPOSAL
+-------------------------------
+
+E-waste disposal:
+- Never throw electronics in regular trash
+- Use our free recycling program (return to any store)
+- Data wiped securely and certified
+- Receive 10% discount on replacement purchase
+
+Trade-in program:
+- Get credit toward new purchase
+- Working devices: up to 50% value
+- Non-working devices: recycling credit
+- Instant quote online or in-store
+
+For product care questions: care@omnisupport.com

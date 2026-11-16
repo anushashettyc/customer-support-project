@@ -1,0 +1,85 @@
+# OmniSupport AI - Output Guardrails
+# These rails check LLM responses BEFORE showing to customer
+
+# ============================================================
+# REFUND AMOUNT VALIDATION
+# ============================================================
+
+define bot offer excessive refund
+  "refund of $10000"
+  "refund of $5000"
+  "full refund of $9999"
+
+define bot correct refund
+  "I need manager approval for refunds over $1000. Let me escalate this for you."
+
+define flow check refund amount limits
+  bot offer excessive refund
+  bot correct refund
+
+# ============================================================
+# PII LEAKAGE DETECTION
+# ============================================================
+
+define bot leak customer pii
+  "your social security number is"
+  "credit card number"
+  "password is"
+  "SSN"
+
+define bot refuse pii leak
+  "I apologize, but I cannot share sensitive personal information. Please contact us directly for account details."
+
+define flow check pii leakage
+  bot leak customer pii
+  bot refuse pii leak
+
+# ============================================================
+# POLICY COMPLIANCE
+# ============================================================
+
+define bot violate return policy
+  "you can return after 90 days"
+  "no return window"
+  "returns accepted anytime"
+
+define bot correct return policy
+  "Our return window is 30 days for Bronze members, up to 60 days for Platinum members."
+
+define flow check policy compliance
+  bot violate return policy
+  bot correct return policy
+
+# ============================================================
+# HALLUCINATION DETECTION
+# ============================================================
+
+define bot make up information
+  "we offer free lifetime warranty"
+  "unlimited returns"
+  "we'll give you $1000"
+  "you can keep the item and get refund"
+
+define bot admit uncertainty
+  "Let me check our policies for the most accurate information."
+
+define flow check hallucinations
+  bot make up information
+  bot admit uncertainty
+
+# ============================================================
+# INAPPROPRIATE TONE
+# ============================================================
+
+define bot respond rudely
+  "that's your problem"
+  "too bad"
+  "not my fault"
+  "deal with it"
+
+define bot respond professionally
+  "I understand your frustration. Let me help resolve this issue."
+
+define flow check tone
+  bot respond rudely
+  bot respond professionally

@@ -1,0 +1,31 @@
+# NeMo Guardrails Configuration for OmniSupport AI
+# This file configures the guardrails system
+
+models:
+  - type: main
+    engine: groq
+    model: openai/gpt-oss-120b
+
+# Enable specific rails
+rails:
+  input:
+    flows:
+      - check jailbreak
+      - check harmful content
+      - handle off topic
+      - handle political
+      - handle personal advice
+      - handle medical legal financial
+      - handle technical non product
+      - handle competitor
+      - handle social chat
+      - check spam
+  output:
+    flows:
+      - check refund amount limits
+      - check pii leakage
+      - check policy compliance
+
+# Logging for debugging
+logging:
+  type: verbose
